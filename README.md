@@ -9,10 +9,9 @@
 <br>
 
 - 🎂 21 years old
-- 👨‍💻 A passionate developer
-- 🌱 Currently learning web development
+- 👨‍💻 A passionate developer at Saint-Gobain
+- 🌱 Currently learning Software Development
 - 🌐 Personal website (coming soon)
-- 📄 I’m currently open for an internship in Canada or the USA, this is [my resume](https://github.com/clementfornes13/clementfornes13/blob/main/RESUME%20FORNES%20CLEMENT.pdf)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -28,8 +27,8 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    ![JS/Nodejs](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>   
 
