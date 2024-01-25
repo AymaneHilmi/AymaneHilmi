@@ -59,14 +59,3 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-
-
-## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/clementfornes13/clementfornes13/main/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
