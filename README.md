@@ -6,13 +6,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aymane Hilmi </h1>
 <h3 align="center">Software Engineer | Programming Enthousiast</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymanehilmi">
+<a href="https://www.linkedin.com/in/aymanehilmi" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="40" height="40" />
 </a>
-  <a href="mailto:aymanehilmi1@gmail.com">
+<a href="mailto:aymanehilmi1@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" height="40" />
 </a>
-  <a href="http://aymanehilmi.com">
+<a href="http://aymanehilmi.com" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/AymaneHilmi/MyPortfolio/blob/main/src/assets/GeneralLogo.png" width="40" height="40" />
 </a>
 </p>
